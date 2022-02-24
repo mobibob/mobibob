@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👋 Hi, I’m @mobibob-ctsh. This is my Corporate persona for access to private projects among work colleagues.
+👀 I’m interested in ... trends in mobile/digital that impact individuals one the web and on their personal, private mobile devices.
+🌱 I’m currently learning ... SwiftUI on iOS and waiting for the improvements in MacOS.
+💞️ I’m looking to collaborate on ... nothing in particular, just Q&A as the ideas and issues occur.
+📫 How to reach me ... mentions in forum.
