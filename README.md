@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋
 
 <!--
 **mobibob/mobibob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 Hi, I’m @mobibob-ctsh. This is my Corporate persona for access to private projects among work colleagues.
+I’m @mobibob. This is my non-work persona for creating and exploring project repositories.
 
 👀 I’m interested in ... trends in mobile/digital that impact individuals one the web and on their personal, private mobile devices.
 
@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 💞️ I’m looking to collaborate on ... nothing in particular, just Q&A as the ideas and issues occur.
 
-📫 How to reach me ... mentions in forum.
+📫 How to reach me ... mentions in forum.  You can also find me in Twitter, although I have not been very active there.
