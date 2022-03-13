@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I’m @mobibob. This is my non-work persona for creating and exploring project repositories.
 
-👀 I’m interested in ... trends in mobile/digital that impact individuals one the web and on their personal, private mobile devices.
+👀 I’m interested in ... trends in mobile/digital that impact individuals on the web and on their personal, private mobile devices.
 
 🌱 I’m currently learning ... SwiftUI on iOS and waiting for the improvements in MacOS.
 
