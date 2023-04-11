@@ -19,7 +19,7 @@ I’m @mobibob. This is my non-work persona for creating and exploring project r
 
 👀 I’m interested in ... trends in mobile/digital that impact individuals on the web and on their personal, private mobile devices.
 
-🌱 I’m currently learning ... SwiftUI on iOS and waiting for the improvements in MacOS.
+🌱 I’m currently learning ... SwiftUI on iOS and tvOs and waiting for the improvements in MacOS.
 
 💞️ I’m looking to collaborate on ... nothing in particular, just Q&A as the ideas and issues occur.
 
